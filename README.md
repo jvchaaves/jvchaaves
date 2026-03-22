@@ -62,34 +62,6 @@ Sou desenvolvedor e estudante de Ciência de Dados com foco em **Inteligência A
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| 🎓 **TutorIA** | Plataforma gamificada de tutoria de matemática via WhatsApp com dashboard para professores | `Node.js` `Supabase` `Next.js` `WhatsApp` |
-| 🤖 **WhatsApp Agent** | Agente conversacional inteligente com tom humanizado e natural | `Node.js` `whatsapp-web.js` `OpenAI` |
-| 📰 **Daily Briefing** | Sistema automatizado de briefing diário de notícias por email | `Python` `OpenAI` `AWS` `Gmail API` |
-| 🧠 **LLM Fashion Project** | LLM aplicado a dataset de moda — projeto Trilha UFPB | `Python` `Jupyter` `LLMs` |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jvchaaves&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0d9373&icon_color=0d9373&text_color=c9d1d9&ring_color=0d9373&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvchaaves&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0d9373&text_color=c9d1d9&count_private=true" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=jvchaaves&hide_border=true&background=0d1117&stroke=0d9373&ring=0d9373&fire=0d9373&currStreakLabel=0d9373&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
