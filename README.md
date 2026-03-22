@@ -1,9 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2b1d,100:0d9373&height=220&section=header&text=João%20Vitor%20Chaves&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%26%20Data%20Science%20Student%20%40%20UFPB&descSize=16&descColor=0d9373&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0f2b1d,100:0d9373&amp;height=220&amp;section=header&amp;text=João%20Vitor%20Chaves&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=AI%20Engineer%20%26%20Data%20Science%20Student%20%40%20UFPB&amp;descSize=16&amp;descColor=0d9373&amp;descAlignY=55&amp;animation=fadeIn"/>
 
 <!-- Typing SVG -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D9373&center=true&vCenter=true&random=false&width=620&lines=Construindo+solu%C3%A7%C3%B5es+inteligentes+com+IA+%F0%9F%A7%A0;Aplicando+IA+%C3%A0+sa%C3%BAde%2C+educa%C3%A7%C3%A3o+e+produtividade+%F0%9F%9A%80;Data+Science+%7C+LLMs+%7C+Agentes+Conversacionais+%F0%9F%A4%96;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%94%A8)](https://git.io/typing-svg)
 
 </div>
@@ -23,7 +24,7 @@ filosofia: "Ship fast, iterate always"
 
 Sou desenvolvedor e estudante de Ciência de Dados com foco em **Inteligência Artificial aplicada**. Construo soluções que usam IA para resolver problemas reais — desde tutoria educacional via WhatsApp até sistemas automatizados de briefing e análise de dados.
 
-🌐 **Portfólio:** [joaovitorchaves.dev](https://localhost:3000) *(substitua pelo seu domínio real)*
+🌐 **Portfólio:** [joaovitorchaves.dev]()
 
 ---
 
@@ -78,7 +79,7 @@ Sou desenvolvedor e estudante de Ciência de Dados com foco em **Inteligência A
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d9373?style=for-the-badge&logo=google-chrome&logoColor=white)](https://localhost:3000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d9373?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvchaaves)
@@ -92,4 +93,4 @@ Sou desenvolvedor e estudante de Ciência de Dados com foco em **Inteligência A
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2b1d,100:0d9373&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0f2b1d,100:0d9373&amp;height=120&amp;section=footer"/>
