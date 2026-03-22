@@ -61,21 +61,6 @@ Gosto de transformar ideias em produtos funcionais rapidamente, com a filosofia 
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| 🎓 **TutorIA** | Plataforma de tutoria gamificada de matemática via WhatsApp com dashboard para professores | `Node.js` `Supabase` `Next.js` `WhatsApp API` |
-| 🤖 **WhatsApp Agent** | Agente conversacional inteligente para WhatsApp com tom humanizado e natural | `Node.js` `whatsapp-web.js` `OpenAI` |
-| 📰 **Daily Briefing** | Sistema automatizado de briefing diário de notícias enviado por email via cron | `Python` `OpenAI` `AWS` `Gmail API` |
-| 🧠 **LLM Fashion Project** | Projeto de LLM aplicado a dataset de moda (Trilha UFPB) | `Python` `Jupyter` `LLMs` |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
