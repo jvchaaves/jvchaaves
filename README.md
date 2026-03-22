@@ -52,20 +52,6 @@ Construo soluções com IA aplicada à saúde, educação e produtividade.
 
 ---
 
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [**LembreMe**](https://mylandpage.vercel.app/projects/lembreme) | Assistente autônomo multimodal com agentes ReAct | Python · LangChain · FastAPI |
-| [**Zoox Agents**](https://mylandpage.vercel.app/projects/zoox-agents) | Gerador de agentes IA com interface interativa | Python · CrewAI · React |
-| [**PixelMind**](https://mylandpage.vercel.app/projects/pixelmind) | Editor de vídeo inteligente com IA — 🏆 1º lugar hackathon | Python · FFmpeg · Next.js |
-| [**TutorIA**](https://mylandpage.vercel.app/projects/tutoria) | Plataforma educacional adaptativa com IA | Next.js · Supabase · OpenAI |
-| [**Copilot**](https://mylandpage.vercel.app/projects/lembreme-copilot) | Sistema de BI com insights automáticos | Python · Pandas · FastAPI |
-
-> 🔗 Veja todos os detalhes no meu **[portfólio](https://mylandpage.vercel.app)**
-
----
-
 ### 🐍 Contributions
 
 ![snake animation](https://raw.githubusercontent.com/jvchaaves/jvchaaves/output/github-snake-dark.svg)
