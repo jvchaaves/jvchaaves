@@ -8,7 +8,7 @@ Construo soluções com IA aplicada à saúde, educação e produtividade.
 
 🔬 Pesquisador no **ARIA** (Laboratório de Aplicações em IA) e no **TRIL Lab** · Trainee na **TAIL** (Technology and Artificial Intelligence League)
 
-🌐 **[Acesse meu portfólio](https://mylandpage-jvchaaves.vercel.app)**
+🌐 **[Acesse meu portfólio](https://mylandpage.vercel.app)**
 
 ---
 
@@ -56,13 +56,13 @@ Construo soluções com IA aplicada à saúde, educação e produtividade.
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**LembreMe**](https://github.com/LembreMe) | Assistente autônomo multimodal com agentes ReAct | Python · LangChain · FastAPI |
-| [**Zoox Agents**](https://github.com/jvchaaves/mylandpage) | Gerador de agentes IA com interface interativa | Python · CrewAI · React |
-| [**PixelMind**](https://github.com/jvchaaves/mylandpage) | Editor de vídeo inteligente com IA — 🏆 1º lugar hackathon | Python · FFmpeg · Next.js |
-| [**TutorIA**](https://github.com/jvchaaves/mylandpage) | Plataforma educacional adaptativa com IA | Next.js · Supabase · OpenAI |
-| [**Copilot**](https://github.com/jvchaaves/mylandpage) | Sistema de BI com insights automáticos | Python · Pandas · FastAPI |
+| [**LembreMe**](https://mylandpage.vercel.app/projects/lembreme) | Assistente autônomo multimodal com agentes ReAct | Python · LangChain · FastAPI |
+| [**Zoox Agents**](https://mylandpage.vercel.app/projects/zoox-agents) | Gerador de agentes IA com interface interativa | Python · CrewAI · React |
+| [**PixelMind**](https://mylandpage.vercel.app/projects/pixelmind) | Editor de vídeo inteligente com IA — 🏆 1º lugar hackathon | Python · FFmpeg · Next.js |
+| [**TutorIA**](https://mylandpage.vercel.app/projects/tutoria) | Plataforma educacional adaptativa com IA | Next.js · Supabase · OpenAI |
+| [**Copilot**](https://mylandpage.vercel.app/projects/lembreme-copilot) | Sistema de BI com insights automáticos | Python · Pandas · FastAPI |
 
-> 🔗 Veja todos os detalhes no meu **[portfólio](https://mylandpage-jvchaaves.vercel.app)**
+> 🔗 Veja todos os detalhes no meu **[portfólio](https://mylandpage.vercel.app)**
 
 ---
 
@@ -74,7 +74,7 @@ Construo soluções com IA aplicada à saúde, educação e produtividade.
 
 ### 📫 Contato
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D9373?style=flat-square&logo=vercel&logoColor=white)](https://mylandpage-jvchaaves.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D9373?style=flat-square&logo=vercel&logoColor=white)](https://mylandpage.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvchaaves)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joaovitorchavesdesouza@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jvchaaves)
