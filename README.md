@@ -4,7 +4,6 @@
 
 **Data Science & AI Student @ UFPB** · João Pessoa, PB 🇧🇷
 
-Construo soluções com IA aplicada à saúde, educação e produtividade.
 
 🔬 Pesquisador no **ARIA** (Laboratório de Aplicações em IA) e no **TRIL Lab** · Trainee na **TAIL** (Technology and Artificial Intelligence League)
 
