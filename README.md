@@ -9,17 +9,6 @@
 
 🌐 **[Acesse meu portfólio](https://mylandpage.vercel.app)**
 
----
-
-### 🏢 Experiência
-
-| Período | Cargo | Organização |
-|---------|-------|-------------|
-| Dez 2025 — Presente | Trainee | **TAIL** — Technology and Artificial Intelligence League |
-| Nov 2025 — Presente | Pesquisador | **ARIA** — Laboratório de Aplicações em IA (UFPB) |
-| Mar 2025 — Presente | Pesquisador (Estágio) | **TRIL Lab** — UFPB |
-| Jun 2025 — Dez 2025 | AI Engineer (Estágio) | **Zoox Smart Data** |
-| Jan 2025 — Jul 2025 | Trainee | **Trilha** — UFPB |
 
 ---
 
