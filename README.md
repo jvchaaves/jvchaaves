@@ -1,5 +1,5 @@
 i build things to understand them
 
-https://mylandpage.vercel.app/
+https://joaovitorchaves.com.br/
 
 joaovitorchavesdesouza@gmail.com :)
